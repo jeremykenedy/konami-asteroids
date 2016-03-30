@@ -36,7 +36,6 @@ build/
 sass/build/
 uploads/
 images/
-css/
 vendor
 vendor/*
 node_modules
