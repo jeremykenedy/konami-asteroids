@@ -15,18 +15,18 @@ Use the Konami code to easily add a playable Astroids game to a page using the h
 2. Open the Example HTML files in your browser
 
 	I. BASIC Example File location:
-        /basic/astroids.html
+        `/basic/astroids.html`
 
 	II. BOOTSTRAP Example File location:
-        /bootstrap/index.html
+        `/bootstrap/index.html`
 
 3. Open the Example HTML files in your browser
 
 	I. Konami Code with Keyboard:
-        up, up, down, down, left, right, left, right, b, a
+        `up, up, down, down, left, right, left, right, b, a`
 
 	II. Konami Code with Touch Devices:
-        swipe up, swipe up, swipe down, swipe down, swipe left, swipe right, swipe left, swipe right, tap, tap
+        `swipe up, swipe up, swipe down, swipe down, swipe left, swipe right, swipe left, swipe right, tap, tap`
 
 ### License
 MIT license included
