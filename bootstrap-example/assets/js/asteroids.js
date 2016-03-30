@@ -1012,6 +1012,7 @@ function Asteroids() {
 		}
 
 		if ( this.keysPressed[code('esc')] ) {
+			location.reload();
 			destroy.apply(this);
 			return;
 		}
@@ -1163,7 +1164,6 @@ function Asteroids() {
 		if ( this.highscores )
 			this.highscores.hide();
 		this.gameContainer.parentNode.removeChild(this.gameContainer);
-		this.appstore.parentNode.removeChild(this.appstore);
 	};
 }
 
@@ -1186,7 +1186,7 @@ if ( window.ActiveXObject && ! document.createElement('canvas').getContext ) {
 				window.ASTEROIDSPLAYERS[window.ASTEROIDSPLAYERS.length] = new Asteroids();
 		}
 	};
-	script.src = "assets/js/excanvas.js";
+	script.src = "excanvas.js";
 	document.getElementsByTagName('head')[0].appendChild(script);
 }
 else window.ASTEROIDSPLAYERS[window.ASTEROIDSPLAYERS.length] = new Asteroids();

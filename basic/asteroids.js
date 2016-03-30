@@ -1012,6 +1012,7 @@ function Asteroids() {
 		}
 
 		if ( this.keysPressed[code('esc')] ) {
+			location.reload();
 			destroy.apply(this);
 			return;
 		}
@@ -1163,7 +1164,6 @@ function Asteroids() {
 		if ( this.highscores )
 			this.highscores.hide();
 		this.gameContainer.parentNode.removeChild(this.gameContainer);
-		this.appstore.parentNode.removeChild(this.appstore);
 	};
 }
 
