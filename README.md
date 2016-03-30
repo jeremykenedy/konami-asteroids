@@ -10,23 +10,38 @@ Use the Konami code to easily add a playable Astroids game to a page using the h
 | Bootstrap Example Included |
 
 ### Quick Project Setup
-###
-1. Run `git clone https://github.com/jeremykenedy/GITLIBNAME GITLIBNAME`
+
+1. In Terminal Run
+
+	`https://github.com/jeremykenedy/Konami-Code-Astroids-with-Pure-Javascript Konami-Code-Astroids-with-Pure-Javascript`
+
+	** or **
+
+    [download the zip file](https://github.com/jeremykenedy/Konami-Code-Astroids-with-Pure-Javascript/archive/master.zip)
+
 2. Open the Example HTML files in your browser
 
-	I. BASIC Example File location:
-        `/basic/astroids.html`
+	###### BASIC Example File location:
 
-	II. BOOTSTRAP Example File location:
-        `/bootstrap/index.html`
+	`/basic/astroids.html`
+
+	###### BOOTSTRAP Example File location:
+
+    `/bootstrap/index.html`
 
 3. Open the Example HTML files in your browser
 
-	I. Konami Code with Keyboard:
-        `up, up, down, down, left, right, left, right, b, a`
+	###### Konami Code with Keyboard:
 
-	II. Konami Code with Touch Devices:
-        `swipe up, swipe up, swipe down, swipe down, swipe left, swipe right, swipe left, swipe right, tap, tap`
+	`up, up, down, down, left, right, left, right, b, a`
+
+	###### Konami Code with Touch Devices:
+	`swipe up, swipe up, swipe down, swipe down, swipe left, swipe right, swipe left, swipe right, tap, tap`
+
+
+### Attributions
+* [Konami-JS](https://github.com/snaptortoise/konami-js)
+* [erkie.github.com](https://github.com/erkie/erkie.github.com)
 
 ### License
-MIT license included
+[MIT license](https://github.com/jeremykenedy/Konami-Code-Astroids-with-Pure-Javascript/blob/master/LICENSE) included
