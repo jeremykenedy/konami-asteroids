@@ -731,7 +731,7 @@ function Asteroids() {
 			minWidth = '100px';
 			textAlign = 'center';
 		}
-		this.scoreTitle.innerHTML = 'Score';
+		this.scoreTitle.innerHTML = 'Score <br /><small>Press "esc" to quit</small>';
 		this.navigation.appendChild(this.scoreTitle);
 
 	} else {
