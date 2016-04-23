@@ -13,11 +13,11 @@ Use the Konami code to easily add a playable Astroids game to a page using the h
 
 1. In Terminal Run
 
-	`https://github.com/jeremykenedy/Konami-Code-Astroids-with-Pure-Javascript Konami-Code-Astroids-with-Pure-Javascript`
+	`https://github.com/jeremykenedy/konami-astroids konami-astroids`
 
 	** or **
 
-    [download the zip file](https://github.com/jeremykenedy/Konami-Code-Astroids-with-Pure-Javascript/archive/master.zip)
+    [download the zip file](https://github.com/jeremykenedy/konami-astroids/archive/master.zip)
 
 2. Open the Example HTML files in your browser
 
