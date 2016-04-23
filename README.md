@@ -13,7 +13,7 @@ Use the Konami code to easily add a playable Astroids game to a page using the h
 
 1. In Terminal Run
 
-	`https://github.com/jeremykenedy/konami-astroids konami-astroids`
+	`sudo git clone https://github.com/jeremykenedy/konami-astroids konami-astroids`
 
 	** or **
 
