@@ -25,7 +25,7 @@ Use the Konami code to easily add a playable Astroids game to a page using the h
 
 	** or **
 
-	#######c. Download the repository here:
+	######c. Download the repository here:
 
     [download the zip file](https://github.com/jeremykenedy/konami-astroids/archive/master.zip)
 
