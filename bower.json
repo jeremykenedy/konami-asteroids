@@ -1,0 +1,24 @@
+{
+  name: 'konami-astroids',
+  authors: [
+    'jeremykenedy <jeremykenedy@gmail.com>'
+  ],
+  description: 'Konami Code Astroids with Pure Javascript. Use the Konami code to easily add a playable Astroids game to a page using the html as the game.',
+  main: 'basic/asteroids.js',
+  keywords: [
+    'konami',
+    'code',
+    'astroids',
+    'javascript'
+  ],
+  license: 'MIT',
+  homepage: 'jeremykenedy.com',
+  ignore: [
+    '**/.*',
+    'node_modules',
+    'bower_components',
+    'test',
+    'tests',
+    'private': false
+  ]
+}
