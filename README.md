@@ -11,13 +11,24 @@ Use the Konami code to easily add a playable Astroids game to a page using the h
 
 ### Quick Project Setup
 
-1. In Terminal Run
+1. Installation
+
+	######a. Clone the repository in terminal using:
 
 	`sudo git clone https://github.com/jeremykenedy/konami-astroids konami-astroids`
 
 	** or **
 
+	######b. Use bower package manager:
+
+	`bower install konami-astroids`
+
+	** or **
+
+	#######c. Download the repository here:
+
     [download the zip file](https://github.com/jeremykenedy/konami-astroids/archive/master.zip)
+
 
 2. Open the Example HTML files in your browser
 
