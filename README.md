@@ -1,4 +1,6 @@
-# Konami Code Astroids with Pure Javascript [![License](https://poser.pugx.org/laravel/framework/license.svg)]()
+# Konami Code Astroids with Pure Javascript
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Use the Konami code to easily add a playable Astroids game to a page using the html as the game
 
