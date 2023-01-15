@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# Konami Code Astroids with Pure Javascript
+# Konami Code Asteroids with Pure Javascript
 
 Use the Konami code to easily add a playable Astroids game to a page using the html as the game
 
@@ -22,7 +22,7 @@ Use the Konami code to easily add a playable Astroids game to a page using the h
 
 	###### a. Clone the repository in terminal using:
 
-	`sudo git clone https://github.com/jeremykenedy/konami-astroids konami-astroids`
+	`sudo git clone https://github.com/jeremykenedy/konami-asteroids konami-asteroids`
 
 	** -- or -- **
 
@@ -34,7 +34,7 @@ Use the Konami code to easily add a playable Astroids game to a page using the h
 
 	###### c. Download the repository here:
 
-    [download the zip file](https://github.com/jeremykenedy/konami-astroids/archive/master.zip)
+    [download the zip file](https://github.com/jeremykenedy/konami-asteroids/archive/master.zip)
 
 2. Open the Example HTML files in your browser
 
@@ -67,7 +67,7 @@ Use the Konami code to easily add a playable Astroids game to a page using the h
 
 ### File Structure
 ```
-konami-astroids/
+konami-asteroids/
     ├── .gitignore
     ├── bower.json
     ├── gulpfile.js
